@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Siybulela Mncube",
+	"keywords": ["freecodecamp", "NPM", "JavaScript"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
